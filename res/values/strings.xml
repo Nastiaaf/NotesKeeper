@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes Keeper</string>
+    <string name="action_settings">Notes List</string>
+    <string name="title_activity_note_select">NoteSelect</string>
+</resources>
