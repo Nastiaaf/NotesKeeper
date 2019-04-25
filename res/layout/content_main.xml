@@ -10,7 +10,7 @@
 
     <EditText
         android:id="@+id/textView"
-        android:layout_width="410dp"
+        android:layout_width="360dp"
         android:layout_height="600dp"
         android:gravity="top"
         android:hint="Type here..."
